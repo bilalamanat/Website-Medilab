@@ -1751,3 +1751,21 @@ section {
   color: #fff;
   text-decoration: none;
 }
+/* Initial styles for icon boxes */
+.icon-box {
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Hover effect styles */
+.icon-box:hover {
+  transform: scale(1.05); /* Increase the size on hover */
+}
+.col-md-6 img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+.icon-box {
+  border-radius: 10px;
+}
+
