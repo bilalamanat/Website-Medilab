@@ -1768,4 +1768,15 @@ section {
 .icon-box {
   border-radius: 10px;
 }
-
+.img-fluid{
+  border-radius: 10px;
+  /* height: 300px; */
+}
+.img-fluid-2{
+  border-radius: 10px;
+  height: 300px;
+}
+.img-fluid-3{
+  border-radius: 10px;
+  height: 300px;
+}
